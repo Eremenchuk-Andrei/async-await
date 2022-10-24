@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1704px;
+  margin: auto;
+  padding: 0 50px;
+}
+
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+.container-post {
+  display: flex;
+  flex-direction: column;
+}
+
+.comments {
+  order: 3;
+}
